@@ -179,5 +179,5 @@ class Find_manhattan_distance_data_gridTest < ::MiniTest::Test
         assert_equal 4, find_manhattan_distance_data_grid(1024)
     end
 
-    # more tests cab be added below
+    # more tests can be added below
 end
