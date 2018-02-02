@@ -70,5 +70,5 @@ The assumption could be made for this problem, like to consider only positive in
 ###
 Edge Cases (related to the input_number)
 
-1. if 1 is passed to the function find_manhattan_distance_general, then 1 is returned
+1. if 1 is passed to the function find_manhattan_distance_general, then 0 is returned
 2. if non-positive integer is passed to find_manhattan_distance_data_grid, then 0 is returned as there is a case of ambiguity as 1 is present twice in the data grid.
