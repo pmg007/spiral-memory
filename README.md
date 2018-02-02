@@ -1,6 +1,6 @@
 # spiral-memory
 
-### This README contains the problem statement, how to run the program and some assumptions/edge cases.
+*** This README contains the problem statement, how to run the program and some assumptions/edge cases. ***
 
 ### Problem Statement
 
@@ -65,7 +65,7 @@ And check if all the test cases pass.
 
 ### Assumptions/Edge cases for the input_number (i.e. program input)
 
-The assumption could be made for this problem, like to consider only positive intergers as valid input, but since nothing was mentioned in the problem, the edge cases even or non-positive integers have been taken in to consideration
+The assumption could be made for this problem, like to consider only positive intergers as valid input, but since nothing was mentioned in the problem, the edge cases even for non-positive integers have been taken in to consideration
 
 ###
 Edge Cases (related to the input_number)
