@@ -1,9 +1,8 @@
 # spiral-memory
 
-This README contains the problem statement, how to run the program and some assumptions/edge cases.
+### This README contains the problem statement, how to run the program and some assumptions/edge cases.
 
-###
-Problem Statement
+### Problem Statement
 
 
 Your goal is to build a program that statisfies the requirements below. The code should be clean, idiomatic, and contain automated tests.
