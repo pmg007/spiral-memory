@@ -56,3 +56,19 @@ Once a square is written, its value does not change. Therefore, the first few sq
 #### The problem:
 
 What is the Manhattan Distance of the first value written that is larger than the program input?
+
+### How to run this program?
+
+Open Terminal or CMD(Windows) or git bash(Windows) and go to the location of "solution.rb".
+Simply type " ruby solution.rb"   (Note: without quotes)
+And check if all the test cases pass.
+
+### Assumptions/Edge cases for the input_number (i.e. program input)
+
+The assumption could be made for this problem, like to consider only positive intergers as valid input, but since nothing was mentioned in the problem, the edge cases even or non-positive integers have been taken in to consideration
+
+###
+Edge Cases (related to the input_number)
+
+1. if 1 is passed to the function find_manhattan_distance_general, then 1 is returned
+2. if non-positive integer is passed to find_manhattan_distance_data_grid, then 0 is returned as there is a case of ambiguity as 1 is present twice in the data grid.
